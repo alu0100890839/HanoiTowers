@@ -1,0 +1,8 @@
+bin/
+TODO
+.settings
+.project
+.classpath
+*.txt
+*.pdf
+*.ods
