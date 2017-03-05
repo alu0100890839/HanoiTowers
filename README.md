@@ -76,7 +76,7 @@ Para comprobar que la complejidad que hemos calculado se acuerda a lo observado 
 
 
 | Tamaño de entrada | Tiempo de ejecución(ms)|
-|-- | --|
+| --- | --- |
 |15|3|
 |16|2|
 |17|6|
